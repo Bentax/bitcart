@@ -72,7 +72,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/surfer190"><img src="https://avatars.githubusercontent.com/u/3285222?v=4?s=100" width="100px;" alt="surfer190"/><br /><sub><b>surfer190</b></sub></a><br /><a href="https://github.com/bitcartcc/bitcart/commits?author=surfer190" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/restyler"><img src="https://avatars.githubusercontent.com/u/775507?v=4?s=100" width="100px;" alt="restyler"/><br /><sub><b>restyler</b></sub></a><br /><a href="https://github.com/bitcartcc/bitcart/commits?author=restyler" title="Documentation">📖</a></td>
       <td align="center"><a href="https://www.groestlcoin.org/"><img src="https://avatars.githubusercontent.com/u/11212268?v=4?s=100" width="100px;" alt="gruve-p"/><br /><sub><b>gruve-p</b></sub></a><br /><a href="https://github.com/bitcartcc/bitcart/commits?author=gruve-p" title="Code">💻</a></td>
-      <td align="center"><a href="https://github.com/Bentax"><img src="https://avatars.githubusercontent.com/u/775507?v=4?s=100" width="100px;" alt="restyler"/><br /><sub><b>restyler</b></sub></a><br /><a href="https://github.com/bitcartcc/bitcart/commits?author=Bentax" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Bentax"><img src="[https://avatars.githubusercontent.com/u/775507?v=4?s=100]https://avatars.githubusercontent.com/u/51067882?v=4" width="100px;" alt="Bentax"/><br /><sub><b>Bentax</b></sub></a><br /><a href="https://github.com/bitcartcc/bitcart/commits?author=Bentax" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
